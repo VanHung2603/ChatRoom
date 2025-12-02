@@ -1,0 +1,1 @@
+{ "users": { "VanHung": { "email": "vh@gmail.com", "role": "admin", "banned": false }, "12111": { "email": "aaa@gmail.com", "role": "user", "banned": false } } }
